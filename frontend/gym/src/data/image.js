@@ -1,0 +1,35 @@
+const imagedata = [
+    {
+        id:1,
+        image:'./src/assets/img1.jpg',
+    },
+    {
+        id:2,
+        image:'./src/assets/img2.jpg',
+    },
+    {
+        id:3,
+        image:'./src/assets/img3.jpg',
+    },
+    {
+        id:4,
+        image:'./src/assets/img4.jpg',
+    },
+    {
+        id:5,
+        image:'./src/assets/img5.jpg',
+    },
+    {
+        id:6,
+        image:'./src/assets/img6.jpg',
+    },
+    {
+        id:7,
+        image:'./src/assets/img7.jpg',
+    },
+    {
+        id:8,
+        image:'./src/assets/img8.jpg',
+    },
+];
+export default imagedata;
